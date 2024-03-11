@@ -1,0 +1,13 @@
+const names = require("./name");
+const funcv = require("./fun");
+const data = require("./new1");
+const sama = require("./new2");
+//console.log(__dirname);
+/*setInterval(() => {
+  console.log("sama");
+}, 1000);*/
+
+//console.log(module);
+//console.log(names);
+//funcv(names.name1);
+console.log(data);
